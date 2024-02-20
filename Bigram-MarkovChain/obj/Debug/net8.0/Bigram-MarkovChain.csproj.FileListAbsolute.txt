@@ -1,0 +1,14 @@
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/bin/Debug/net8.0/Bigram-MarkovChain
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/bin/Debug/net8.0/Bigram-MarkovChain.deps.json
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/bin/Debug/net8.0/Bigram-MarkovChain.runtimeconfig.json
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/bin/Debug/net8.0/Bigram-MarkovChain.dll
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/bin/Debug/net8.0/Bigram-MarkovChain.pdb
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/obj/Debug/net8.0/Bigram-MarkovChain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/obj/Debug/net8.0/Bigram-MarkovChain.AssemblyInfoInputs.cache
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/obj/Debug/net8.0/Bigram-MarkovChain.AssemblyInfo.cs
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/obj/Debug/net8.0/Bigram-MarkovChain.csproj.CoreCompileInputs.cache
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/obj/Debug/net8.0/Bigram-MarkovChain.dll
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/obj/Debug/net8.0/refint/Bigram-MarkovChain.dll
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/obj/Debug/net8.0/Bigram-MarkovChain.pdb
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/obj/Debug/net8.0/Bigram-MarkovChain.genruntimeconfig.cache
+/home/bjarte/prosjekter/ai/markov-chain/Bigram-MarkovChain/obj/Debug/net8.0/ref/Bigram-MarkovChain.dll
